@@ -6,7 +6,7 @@ var jokes = require('../model/jokes');
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index',{username: req.session.username}) //<- template, not necessary to .hbs because it was setup in app.js that it is the default engine
+  res.render('index',{username: req.session.username, count: req.session.jokeCount}) 
 });
 
 router.get('/joke', function(req, res,next){
