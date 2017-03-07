@@ -1,0 +1,16 @@
+{
+  "name": "expressdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cherry Rose Semena",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.6.1",
+    "express": "^4.14.1"
+  }
+}
