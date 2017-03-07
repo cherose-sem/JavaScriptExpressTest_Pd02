@@ -1,3 +1,7 @@
+### Deploy on DO - connection refused issues
+![Alt text](https://cloud.githubusercontent.com/assets/16150075/23662841/10aeaeaa-0351-11e7-8711-a622bbef9fa8.PNG "Optional Title")
+
+
 # JavaScriptExpressTest_Pd02
 JavaScript Period 2 - Express, REST and Test
 
