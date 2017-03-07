@@ -10,7 +10,14 @@
   "author": "Cherry Rose Semena",
   "license": "ISC",
   "dependencies": {
+    "cookie-parser": "^1.4.3",
     "debug": "^2.6.1",
-    "express": "^4.14.1"
+    "express-hbs": "^1.0.4",
+    "morgan": "^1.8.1",
+    "path": "^0.12.7",
+    "serve-favicon": "^2.4.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.17.1"
   }
 }
